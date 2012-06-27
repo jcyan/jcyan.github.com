@@ -12,7 +12,7 @@ tagline: Supporting tagline
 >**道德经 Tao Te Ching**
 
 
-#**Recent Posts:**#
+###**Recent Posts:**###
 
 <ul class="posts">
   {% for post in site.posts %}
