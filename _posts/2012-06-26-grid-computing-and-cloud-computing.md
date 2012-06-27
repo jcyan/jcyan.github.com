@@ -30,6 +30,7 @@ From wiki，
 
 - **Heroku** - Heroku (pronounced her-OH-koo) is a cloud application platform – a new way of building and deploying web apps.
 
+
 ###[Grid computing][3]
 
 >Grid computing is a form of [**distributed computing**][4] whereby resources of many computers in a network is used at the same time, to solve a single problem. Grid systems are designed for collaborative sharing of resources. It can also be thought of as distributed and large-scale cluster computing.
